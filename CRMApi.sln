@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMApi", "CRMApi\CRMApi.csproj", "{FEFC8ABB-06C8-49CB-8FB8-09164C602E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMApiTests", "CRMApiTests\CRMApiTests.csproj", "{6A5628E7-4211-4353-9114-E888A317F8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMApiDAL", "CRMApiDAL\CRMApiDAL.csproj", "{0DAC2A10-F103-435B-BA4A-F148BBB7A37A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEFC8ABB-06C8-49CB-8FB8-09164C602E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFC8ABB-06C8-49CB-8FB8-09164C602E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFC8ABB-06C8-49CB-8FB8-09164C602E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFC8ABB-06C8-49CB-8FB8-09164C602E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5628E7-4211-4353-9114-E888A317F8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5628E7-4211-4353-9114-E888A317F8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5628E7-4211-4353-9114-E888A317F8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5628E7-4211-4353-9114-E888A317F8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAC2A10-F103-435B-BA4A-F148BBB7A37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAC2A10-F103-435B-BA4A-F148BBB7A37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAC2A10-F103-435B-BA4A-F148BBB7A37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAC2A10-F103-435B-BA4A-F148BBB7A37A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F40B4057-95D9-4CB9-82A4-5CADF72B4CDC}
+	EndGlobalSection
+EndGlobal
